@@ -14,7 +14,10 @@ public class ThreadRelay {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        RelayRunForm fS = new RelayRunForm();
+        fS.setLocationRelativeTo(null);
+        fS.setExtendedState(javax.swing.JFrame.MAXIMIZED_BOTH);
+        fS.setVisible(true);
     }
     
 }
