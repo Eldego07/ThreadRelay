@@ -137,10 +137,10 @@ public class RelayRunForm extends javax.swing.JFrame {
         btnTermina = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Staffetta Thread");
-        setMinimumSize(new java.awt.Dimension(900, 400));
+        setTitle("Thread Relay");
+        setMinimumSize(new java.awt.Dimension(1000, 500));
         setName("frame"); // NOI18N
-        setPreferredSize(new java.awt.Dimension(900, 400));
+        setPreferredSize(new java.awt.Dimension(1000, 500));
 
         pnlTitolo.setBorder(javax.swing.BorderFactory.createEmptyBorder(10, 10, 10, 10));
         pnlTitolo.setLayout(new java.awt.BorderLayout());

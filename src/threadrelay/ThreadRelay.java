@@ -16,7 +16,7 @@ public class ThreadRelay {
     public static void main(String[] args) {
         RelayRunForm fS = new RelayRunForm();
         fS.setLocationRelativeTo(null);
-        fS.setExtendedState(javax.swing.JFrame.MAXIMIZED_BOTH);
+        fS.setExtendedState(javax.swing.JFrame.NORMAL);
         fS.setVisible(true);
     }
     

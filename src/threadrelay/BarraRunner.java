@@ -14,7 +14,7 @@ import java.awt.*;
 
 public class BarraRunner extends JProgressBar{
 
-    private static final String EMOJI = "️🏃‍️‍➡️️️";
+    private static final String EMOJI = "️🏃‍♀️‍➡️️️️";
     
     public BarraRunner() {
         super(0, 100);
